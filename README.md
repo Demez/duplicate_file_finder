@@ -3,6 +3,7 @@
 requries python 3, i used the latest version of python (3.8 currently)
 
 for modules, it requires pyqt5, and optionally send2trash
+
 to install these, use this command on windows:
 ```
 py -m pip install pyqt5 send2trash
@@ -13,8 +14,7 @@ on linux:
 python3 -m pip install pyqt5 send2trash
 ```
 
-start dup_finder_qt5.py with command line options
-
+start dup_finder_qt5.py with command line options:
 ```
 usage: dup_finder_qt5.py [-h] --directories DIRECTORIES [DIRECTORIES ...]
                          [--exclude EXCLUDE [EXCLUDE ...]]
