@@ -1,5 +1,17 @@
 # duplicate_file_finder
 
+requries python 3, i used the latest version of python (3.8 currently)
+
+to install pyqt5, use this command on windows:
+```
+py -m pip install pyqt5
+```
+on linux:
+
+```
+python3 -m pip install pyqt5
+```
+
 start dup_finder_qt5.py with command line options
 
 ```
